@@ -16,4 +16,6 @@
 
 `print("DS Bootcamp")`
 
-[read more ](https://en.wikipedia.org/wiki/Data_science”)
+
+[read more ](https://en.wikipedia.org/wiki/Data_science)
+
