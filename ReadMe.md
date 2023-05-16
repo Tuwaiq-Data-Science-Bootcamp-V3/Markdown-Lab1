@@ -13,6 +13,8 @@
 | e.g: tables| e.g: xml |e.g: photos|
 
 
-`print ("DS Bootcamo")`
-
+```python
+print ("DS Bootcamo") 
+```
+ 
 [Read More](https://en.wikipedia.org/wiki/Data_science”)
