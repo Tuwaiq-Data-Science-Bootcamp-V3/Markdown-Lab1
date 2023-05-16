@@ -8,6 +8,6 @@
 
 **Data Science** is a *multidisciplinary field* that combines statistics, computer science, and domain knowledge.
 
-![Image](DS.png)
 
-<img src="DS.png" width="200" />
+
+<img src="DS.png" width="400" and height="400" />
