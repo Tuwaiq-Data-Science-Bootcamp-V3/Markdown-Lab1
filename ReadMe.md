@@ -9,7 +9,7 @@
 
 | Structured | Semi-Structured | Unstructured |
 | ----------- | ----------- |----------- |
-| It is data that has been organized into a strict schema. | It is data dose not conform to schema but has some structure. |It is data that has no schema.|
+| It is data that has been organized into a strict schema. | It is data that dose not conform to schema but has some structure. |It is data that has no schema.|
 | e.g: tables| e.g: xml |e.g: photos|
 
 
