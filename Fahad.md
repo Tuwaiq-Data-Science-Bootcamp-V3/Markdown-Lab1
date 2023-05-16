@@ -2,7 +2,7 @@
 ### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V3/Markdown-Lab1/blob/main/style.md)
 # Data Science 
 ## What is DAta Science 
-### **Data Science** is a *multidisciplinary* field that combines statistics, computer science, and domain knowledg
+### **Data Science** ### is a *multidisciplinary* field that combines statistics, computer science, and domain knowledg
 
 !<img width="870" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="https://user-images.githubusercontent.com/89189772/211477266-d296e2d0-892c-4524-bc49-64db7bd9f515.png">
 
