@@ -16,3 +16,7 @@
 - Link style for the following link “https://en.wikipedia.org/wiki/Data_science”.
 - Table style for Data Types.
 - Code style for python code prints “DS Bootcamp”.
+
+
+
+
