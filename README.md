@@ -1,5 +1,5 @@
 # Markdown-Lab1
-### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V3/Markdown-Lab1/edit/main/style.md)
+### Use Markdown rules to apply [this styles.](https://github.com/Tuwaiq-Data-Science-Bootcamp-V3/Markdown-Lab1/blob/main/style.md)
 
 
 #### Hint: for more information, go to: https://www.markdownguide.org/cheat-sheet/
