@@ -8,7 +8,7 @@
 - Semi-Structured Data
 - Unstructured Data
 
-<img src="C:\Users\salman\OneDrive\سطح المكتب\Laps-DS\Markdown-Lab1\pic\DS.png" width="400" height="400">
+<img src="DS.png" width="400" height="400">
 
 | Structured | Semi-Structured | Unstructured |
 | ----------- | ----------- | ----------- |
