@@ -17,6 +17,8 @@
 |It is data that has been organized into a strict schema.| It is data that not conform to a schema but has some structure. |It is data has no schema. |
 | e.g:tables | e.g:xml|e.g:photos|
 
-`print("DS Bootcamp")`
+```python
+print("DS Bootcamp")
+```
 
 [Read more](https://en.wikipedia.org/wiki/Data_science%E2%80%9D)
