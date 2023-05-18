@@ -2,7 +2,7 @@
 ## What is Data Science?
 **Data Science** is a *multidisclipinary field* that combines statistics, computer science, and domain knowledge
 
-<img src=DS.png height=*400* width=*400*>
+<img src=DS.png height='400' width='400'>
 
 ### Data Types
 
@@ -18,5 +18,6 @@
 ```python
 
   print ("DS bootcamp")
+  [Read More](https://en.wikipedia.org/wiki/Data_science)
 
 ```
